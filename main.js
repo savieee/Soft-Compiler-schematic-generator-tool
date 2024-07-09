@@ -1,7 +1,7 @@
 //Table means  generation of Booleantable with 1 and 0
 //Graph means the pnematic wiring diagram
 
-currentNum = 3;
+currentNum = 2;
 
 function main() {
   createTable(currentNum);
